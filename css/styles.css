@@ -1,6 +1,6 @@
 *{
     box-sizing: border-box;
-    margin-top: 30px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 .espacio{
     padding: 10px;
@@ -16,4 +16,13 @@
 }
 .imagen1{
     width: 100px;
+}
+.espacio{
+    margin: 30px;
+}
+.color1{
+    background: orange;
+}
+.color2{
+    background: orangered;
 }
