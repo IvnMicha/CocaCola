@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin-top: 30px;
+}
+.espacio{
+    padding: 10px;
+}
+.linea{
+    border: 2px red solid;
+}
+.linea1{
+    border: 2px orange solid;
+}
+.imagen{
+    width: 100%;
+}
+.imagen1{
+    width: 100px;
+}
